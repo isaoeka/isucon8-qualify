@@ -5,7 +5,7 @@
     - install_h2o
     - install_mariadb
     - install_go
-    # - install_nodejs
+    - install_nodejs
     - install_perl
     # - install_php
     # - install_python
